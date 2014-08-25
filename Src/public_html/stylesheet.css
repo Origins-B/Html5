@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 19, 2014, 12:22:18 AM
+    Author     : infinityserivce
+*/
+.toggle {
+    background-color: red;
+    border-radius: 15px;
+    font-size: 20px;
+    position: relative;
+    width: 50px;
+    top: -50px;
+}
+.head{
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    left: 40em;
+    width: 220px;
+}
+li{
+    display: inline;
+
+}
+li div{
+    border-radius: 1px;
+    background-color: gray;
+    width: 5em;
+    height: 3em;
+    margin: 20px;
+    margin-top: 5px;
+    border-radius: 13px;
+    text-align: center;
+    font-size: 22px;
+    height: 25px;
+}
+.arc {
+    background-color: #009966;
+}
+.blue {
+    background-color: blue;
+}
+.pull-left{
+position: relative;
+top: 70px;
+background-color: blue;
+border-radius: 15px;
+padding-right: 5px;
+left: -285px;
+}
+.lif{
+    text-decoration: none;
+    color: red;
+}
+.hed {
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    left: 37em;
+    width: 100px; 
+    font-size: 16px;
+}
